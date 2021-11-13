@@ -1,9 +1,6 @@
-(ini hapus aja , Jangan lupa subscribe lemes aku cuk)
-
-
 {
-	"ip":"vanevo.aternos.me",
-	"port": "25565",
-	"name": "boboserver",
+	"ip":"endermabar.aternos.me",
+	"port": "13536",
+	"name": "ServerGuardian",
 	"auto-night-skip":"false"
 }
